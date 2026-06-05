@@ -84,11 +84,6 @@
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/Vansh2744/ai-powered-note-making-learning-platform.git
-cd ai-powered-note-making-learning-platform
-```
-
 ### 2. Backend Setup
 
 ```bash
